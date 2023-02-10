@@ -9,8 +9,8 @@ A simple calculator made with HTML, CSS, and JavaScript.
 # Getting Started
 To get started with this calculator, follow these steps:
 
-- 1.Clone the repository by running the following command:
-- git clone https://github.com/<your-username>/calculator.git
+- Clone the repository by running the following command:
+- ``git clone https://github.com/<your-username>/calculator.git``
 - Open the index.html file in your web browser.
 
 You're now ready to use the calculator!
