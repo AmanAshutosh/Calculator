@@ -6,6 +6,9 @@ A simple calculator made with HTML, CSS, and JavaScript.
 - Clean and attractive user interface for a better user experience.
 - Responsive design for different screen sizes.
 
+# UI View
+![frame_safari_light](https://user-images.githubusercontent.com/69684043/218403011-426e5ed6-f7b2-453f-8b38-4025af2bf86b.png)
+
 # Getting Started
 To get started with this calculator, follow these steps:
 
